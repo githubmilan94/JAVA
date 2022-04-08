@@ -8,5 +8,6 @@ public class Figure2 {
             }
             System.out.println();
         }
+        System.out.println("Hello");
     }
 }
